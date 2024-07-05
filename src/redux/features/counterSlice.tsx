@@ -29,3 +29,8 @@ export default counterSlice.reducer;
 
 
 
+// case ADD_BOX:
+//     return {
+//       ...state,
+//       boxes: [...state.boxes, { id: state.boxes.length }]
+//     };

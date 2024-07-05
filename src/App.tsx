@@ -25,3 +25,16 @@ const App = () => {
 }
 
 export default App
+
+
+
+// <div>
+//         <h1 onClick={() => dispatch(addBox())}>{number}</h1>
+//       </div>
+//       <div>
+//         {boxes.map((box) => (
+//           <div key={box.id} style={{ width: '50px', height: '50px', border: '1px solid black', margin: '5px' }}>
+//             Box {box.id + 1}
+//           </div>
+//         ))}
+//       </div>
